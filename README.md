@@ -1,0 +1,9 @@
+- Hi, I’m @jamesdgalbraith
+- 👨🏻‍🔬 Researcher of genetics and evolution
+- ☕ Drinker of coffee
+- 🦎 Enthusist of reptiles 
+- 🎧 Consumer of podcasts
+- Also find me at:
+  - <a rel="me" href="https://genomic.social/@gulbruth">Mastodon 🐘</a> 
+  - <a rel="me" href="https://twitter.com/gulbruth">Twitter 🐦</a> 
+  - <a rel="me" href="https://www.instagram.com/gulbruth">Instagram 🔒</a> 
