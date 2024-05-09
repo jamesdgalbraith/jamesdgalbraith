@@ -5,5 +5,5 @@
 - 🎧 Consumer of podcasts
 - Also find me at:
   - <a rel="me" href="https://genomic.social/@gulbruth">Mastodon 🐘</a> 
-  - <a rel="me" href="https://twitter.com/gulbruth">Twitter 🐦</a> 
+  - <a rel="me" href="https://bsky.app/profile/gulbruth.bsky.social">Bluesky ☁️</a> 
   - <a rel="me" href="https://www.instagram.com/gulbruth">Instagram 🔒</a> 
